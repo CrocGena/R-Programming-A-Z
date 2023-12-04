@@ -136,7 +136,7 @@ set.seed(1)
 sampl <- sample(x, size = 5)
 a<-abs(sampl)
 mean(a)
-22.86-23.89338
+
 
 
 sample_size <- 5
